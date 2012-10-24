@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="fugitives_tab_title">Fugitives</string>
+	<string name="captured_tab_title">Captured</string>
+</resources> 
